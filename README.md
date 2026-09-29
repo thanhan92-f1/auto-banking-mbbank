@@ -330,5 +330,5 @@ Truy cập hệ thống trên trình duyệt:
 ---
 
 ## 👤 Tác Giả & Bản Quyền
-Dự án được xây dựng và phát triển bởi **PeZoi**.
+Dự án được xây dựng và phát triển bởi **thanhan92-f1**.
 Mọi thắc mắc hoặc yêu cầu hỗ trợ vui lòng liên hệ trực tiếp qua repository.
